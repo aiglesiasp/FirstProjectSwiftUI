@@ -10,15 +10,21 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("HOLA")
+            Spacer()
+            Text("KEEPCODERS")
+            Spacer()
+            Text("ESTO ES SWIFTUI")
         }
-        .padding()
+        .font(.title)
+        .frame(width: 400, height: 400)
+        .background(Color.blue)
+        .foregroundColor(Color.white)
+        
     }
 }
 
+//MARK: Crear el preview
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
