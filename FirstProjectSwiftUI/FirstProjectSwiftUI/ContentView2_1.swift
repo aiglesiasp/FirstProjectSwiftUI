@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView2: View {
+struct ContentView2_1: View {
     var body: some View {
         VStack {
             Image(systemName: "house")
@@ -37,8 +37,8 @@ struct ContentView2: View {
     }
 }
 
-struct ContentView3_Previews: PreviewProvider {
+struct ContentView2_1_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView2()
+        ContentView2_1()
     }
 }

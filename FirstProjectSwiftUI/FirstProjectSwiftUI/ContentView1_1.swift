@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView1: View {
+struct ContentView1_1: View {
     var body: some View {
         VStack {
             Text("HOLA")
@@ -25,8 +25,8 @@ struct ContentView1: View {
 }
 
 //MARK: Crear el preview
-struct ContentView1_Previews: PreviewProvider {
+struct ContentView1_1_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView1()
+        ContentView1_1()
     }
 }
