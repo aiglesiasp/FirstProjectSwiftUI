@@ -7,9 +7,27 @@
 
 import SwiftUI
 
+struct Hero : Identifiable{
+    let id: UUID = UUID()
+    let name:String
+}
+
 struct ContentView4_4: View {
+    let heros = [
+        Hero(name: "Krillin"),
+        Hero(name: "Goku"),
+        Hero(name: "Vegeta")
+    ]
+    
+    
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+       
+        List {
+            ForEach(heros) { hero in
+                Text(hero.name)
+            }
+        }
     }
 }
 

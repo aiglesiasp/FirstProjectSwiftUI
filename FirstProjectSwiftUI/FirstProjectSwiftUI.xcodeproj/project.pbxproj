@@ -20,6 +20,7 @@
 		5B69D187293A2E2D001E9D2A /* ContentView4_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B69D186293A2E2D001E9D2A /* ContentView4_1.swift */; };
 		5B69D189293A318B001E9D2A /* ContentView4_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B69D188293A318B001E9D2A /* ContentView4_3.swift */; };
 		5B69D18B293A3525001E9D2A /* ContentView4_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B69D18A293A3525001E9D2A /* ContentView4_4.swift */; };
+		5B69D18D293A3A37001E9D2A /* ContentView4_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B69D18C293A3A37001E9D2A /* ContentView4_5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		5B69D186293A2E2D001E9D2A /* ContentView4_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4_1.swift; sourceTree = "<group>"; };
 		5B69D188293A318B001E9D2A /* ContentView4_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4_3.swift; sourceTree = "<group>"; };
 		5B69D18A293A3525001E9D2A /* ContentView4_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4_4.swift; sourceTree = "<group>"; };
+		5B69D18C293A3A37001E9D2A /* ContentView4_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4_5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				5B69D184293A26D7001E9D2A /* ContentView4_2.swift */,
 				5B69D188293A318B001E9D2A /* ContentView4_3.swift */,
 				5B69D18A293A3525001E9D2A /* ContentView4_4.swift */,
+				5B69D18C293A3A37001E9D2A /* ContentView4_5.swift */,
 				5B69D1702938E761001E9D2A /* Assets.xcassets */,
 				5B69D1722938E761001E9D2A /* Preview Content */,
 			);
@@ -169,6 +172,7 @@
 				5B69D185293A26D7001E9D2A /* ContentView4_2.swift in Sources */,
 				5B69D17B29395062001E9D2A /* ContentView1_2.swift in Sources */,
 				5B69D187293A2E2D001E9D2A /* ContentView4_1.swift in Sources */,
+				5B69D18D293A3A37001E9D2A /* ContentView4_5.swift in Sources */,
 				5B69D16F2938E75F001E9D2A /* ContentView1_1.swift in Sources */,
 				5B69D18129395ABC001E9D2A /* ContentView2_2.swift in Sources */,
 				5B69D17D29395255001E9D2A /* ContentView1_3.swift in Sources */,
